@@ -1,7 +1,7 @@
 #!usr/bin/python3
 
 """
-Controlling 'child' applications is not as difficult as you thing,
+Controlling 'child' applications is not as difficult as you think,
 pexpect provides a simple way of controlling an application.
 """
 
