@@ -4,7 +4,7 @@ The purpose of this code is simply to prevent a script or application from runni
 
 [Citation - "Check to see if python script is running"](https://stackoverflow.com/questions/788411/check-to-see-if-python-script-is-running)
 
-I will try my best to contain references to them, in order to help keep track of where I found the solutions. As always, please feel free to reach out to me with any questions or concerns
+Some of these solutions I found, and some of the I wrote myself. I will try my best to contain references to ones I found, in order to help keep track of where I found the solutions. As always, please feel free to reach out to me with any questions or concerns
 
 ## Collector
 
@@ -13,7 +13,7 @@ I will try my best to contain references to them, in order to help keep track of
 
 ## License
 
-All of these scripts are free to use. I also do not claim to have written these codes, I have just found them to be useful, and they are available about the open source realms.
+All of these scripts are free to use. I also do not claim to have written all of these codes just some of them. I have just found them to be useful, and they are available about the open source realms.
 
 ## Acknowledgments
 
